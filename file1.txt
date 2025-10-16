@@ -4,3 +4,4 @@ change that conflicts with remote
 this is a change made online
 git change
 more changes
+another change new
