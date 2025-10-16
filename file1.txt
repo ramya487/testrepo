@@ -1,3 +1,3 @@
 hello world!
 test
-changes2
+change that conflicts with remote
